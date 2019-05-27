@@ -1,0 +1,22 @@
+{
+  "name": "The Southern Literary Messenger",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-southern-literary-messenger/master/assets",
+  "source_url": "http://www.gutenberg.org/cache/epub/58497/pg58497.txt",
+  "basename": "pg58497",
+  "start_page": "9"
+}
